@@ -65,7 +65,7 @@ Lead Tracker Extension/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/lead-tracker-extension.git
+git clone https://github.com/hritik2004-cse/lead-tracker-extension.git
 cd lead-tracker-extension
 
 # Install dependencies
